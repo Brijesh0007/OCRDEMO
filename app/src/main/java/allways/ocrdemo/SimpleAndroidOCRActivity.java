@@ -32,6 +32,7 @@ public class SimpleAndroidOCRActivity extends Activity {
 	public static final String PACKAGE_NAME = "com.datumdroid.android.ocr.simple";
 	public static final String DATA_PATH = Environment
 			.getExternalStorageDirectory().toString() + "/SimpleAndroidOCR/";
+
 	
 	// You should have the trained data file in assets folder
 	// You can get them at:
